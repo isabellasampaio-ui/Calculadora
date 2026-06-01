@@ -1,8 +1,4 @@
-def saudação(nome):
-  retorn f'Bom dia, {nome}'
-
-def soma(n1 , n2):
-  resultado= n1 + n2
-  return(resultado)
-
-print(saudação('mundo'))
+# saudacao.py
+def saudacao(nome):
+return f"Até mais, {nome}!"
+print(saudacao("Mundo"))
